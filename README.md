@@ -14,10 +14,6 @@ The dataset, which has 1026 rows and 13 columns, is about a store’s bike sales
 
 Information concerning the customer’s name, marital status, gender, income, number of children, education, occupation, ownership of a home, number of automobiles, commute, region, age, and purchase status are all included in its content.
 
-<strong>Read full Analysis below<strong>
-
-https://medium.com/@izu.obike/this-project-covers-the-processes-of-data-cleansing-data-analysis-and-data-visualization-using-d513a0baba7e
-
 <strong>Click Below to Interact With Power Bi Dashboard<strong>
 
 https://app.powerbi.com/view?r=eyJrIjoiYjdjZjRjMjItYjcxMS00YWVkLTliZDgtMmEzMGRjZWRhZDk1IiwidCI6IjRhYzUzYjQ4LWViMWQtNDBjNi1hZWNkLWE5MDZkYTA3NTI0OCJ9
